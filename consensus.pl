@@ -13,7 +13,7 @@ while(<>)
 {
 	chomp;
 	my @sps = split(/\t/);
-	if(scalar(@sps) > 4)
+	if(scalar(@sps) > 3)
 	{
 	
 		if($skips == 0)
