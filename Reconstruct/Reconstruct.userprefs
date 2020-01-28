@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Reconstruct/Reconstruct.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reconstruct/Classes/Genome.cs">
+    <Files>
+      <File FileName="Reconstruct/Program.cs" Line="42" Column="5" />
+      <File FileName="Reconstruct/Classes/Genome.cs" Line="30" Column="6" />
+      <File FileName="Reconstruct/Classes/Scaffold.cs" Line="54" Column="14" />
+      <File FileName="Reconstruct/Classes/Allele.cs" Line="54" Column="31" />
+      <File FileName="Reconstruct/Classes/MetaScaffold.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

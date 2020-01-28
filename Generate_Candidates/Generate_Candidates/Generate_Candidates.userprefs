@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Generate_Candidates/Generate_Candidates.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generate_Candidates/Classes/Scaffold.cs">
+    <Files>
+      <File FileName="Generate_Candidates/Program.cs" Line="22" Column="64" />
+      <File FileName="Generate_Candidates/Classes/AnchorBase.cs" Line="1" Column="1" />
+      <File FileName="Generate_Candidates/Classes/Blast.cs" Line="1" Column="1" />
+      <File FileName="Generate_Candidates/Classes/Allele.cs" Line="1" Column="1" />
+      <File FileName="Generate_Candidates/Classes/AnchorSpan.cs" Line="1" Column="1" />
+      <File FileName="Generate_Candidates/Classes/Genome.cs" Line="36" Column="5" />
+      <File FileName="Generate_Candidates/Classes/Scaffold.cs" Line="111" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

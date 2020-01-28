@@ -1,0 +1,5 @@
+/home/arunachala/Documents/App/Reconstruct/Reconstruct/Reconstruct/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/arunachala/Documents/App/Reconstruct/Reconstruct/Reconstruct/bin/Debug/Reconstruct.exe.mdb
+/home/arunachala/Documents/App/Reconstruct/Reconstruct/Reconstruct/bin/Debug/Reconstruct.exe
+/home/arunachala/Documents/App/Reconstruct/Reconstruct/Reconstruct/obj/x86/Debug/Reconstruct.exe
+/home/arunachala/Documents/App/Reconstruct/Reconstruct/Reconstruct/obj/x86/Debug/Reconstruct.exe.mdb
